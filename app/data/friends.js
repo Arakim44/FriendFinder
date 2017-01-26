@@ -1,4 +1,4 @@
-var friendsArray=[];
+var friendsArray = [];
 
 
 module.exports = friendsArray;
